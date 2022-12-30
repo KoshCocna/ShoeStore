@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <!--  Login Fragment  -->
+    <string name="hint_password">Password</string>
+    <string name="hint_login">Login</string>
+    <string name="sign_in_btn_text">SIGN IN</string>
+    <string name="sign_up_btn_text">SIGN UP</string>
+    <string name="error_login_text">Login too short</string>
+    <string name="error_password_text">Password too short</string>
+
+    <!--  Welcome Fragment  -->
+    <string name="welcome_title">Welcome to our\nShoe Store</string>
+    <string name="welcome_content">
+        We\'re foot experts, and not only have we learned where to find
+        the most stylish and comfortable premium footwear around the world, we are trained and
+        certified to fit and adjust those shoes according to your individual needs and issues.
+        Most people will have some type of foot pain at some time in their life… from simple
+        blisters and calluses to chronic foot pain, from tendonitis, plantar fasciitis, or a host
+        of other conditions.  Our sales staff are trained in pedorthic practices and are ready to
+        help.
+    </string>
+    <string name="welcome_start">Show instructions</string>
+
+    <!--  Tutorial Fragment  -->
+    <string name="tutorial_title">Instructions</string>
+    <string name="rules">
+        1. Since you have downloaded this application you need to buy at least 7 pairs of shoes.\n\n
+        2. if you don\'t have the money to do this take out a loan.\n\n
+        3. if you can\'t get a loan sell your house or car and buy shoes.
+    </string>
+    <string name="button_accept">Accept</string>
+
+    <!--  Shoe list Fragment  -->
+    <string name="content_description_add_new_shoe">Add new shoe</string>
+    <string name="content_description_icon_shoe">Show icon</string>
+
+    <!--  Add shoe Fragment  -->
+    <string name="add_new_shoe_label">Add new shoe</string>
+    <string name="name_hint">Name</string>
+    <string name="description_hint">Description</string>
+    <string name="company_hint">Company</string>
+    <string name="size_hint">Size</string>
+    <string name="add_shoe_button">Add shoe</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="error_field_must_not_be_empty">Field must not be empty</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_label">Welcome</string>
+    <string name="tutorial_label">Tutorial</string>
+    <string name="shoe_list_label">Shoe List</string>
+    <string name="add_shoe_label">Add Shoe</string>
+</resources>
